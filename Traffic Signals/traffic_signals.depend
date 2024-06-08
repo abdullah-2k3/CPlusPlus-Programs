@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1707850439 source:c:\users\abdullah\documents\c++\traffic_signals\linkedlist.cpp
+	<cstdlib>
+	<memory>
+	"LinkedList.h"
+
+1707855090 c:\users\abdullah\documents\c++\traffic_signals\linkedlist.h
+	<cstdlib>
+
+1707850412 source:c:\users\abdullah\documents\c++\traffic_signals\queue.cpp
+	"queue.h"
+
+1707850412 c:\users\abdullah\documents\c++\traffic_signals\queue.h
+	"LinkedList.cpp"
+
+1707850439 c:\users\abdullah\documents\c++\traffic_signals\linkedlist.cpp
+	<cstdlib>
+	<memory>
+	"LinkedList.h"
+
+1707912624 source:c:\users\abdullah\documents\c++\traffic_signals\main.cpp
+	<iostream>
+	<time.h>
+	<chrono>
+	<thread>
+	"queue.cpp"
+
+1707850412 c:\users\abdullah\documents\c++\traffic_signals\queue.cpp
+	"queue.h"
+
+1707906128 source:c:\users\abdullah\documents\c++\traffic_signals\test2.cpp
+	<cstdio>
+	<signal.h>
+	<iostream>
+	<string>
+	"queue.cpp"
+
+1707904556 source:c:\users\abdullah\documents\c++\traffic_signals\trafficsimulatorb.cpp
+	<iostream>
+	<cstdlib>
+	"queue.cpp"
+
+1707912800 source:c:\users\abdullah\documents\c++\traffic_signals\q2_a.cpp
+	<iostream>
+	<time.h>
+	<chrono>
+	<thread>
+	"queue.cpp"
+
+1707936155 source:c:\users\abdullah\documents\c++\traffic_signals\q2_b.cpp
+	<iostream>
+	<time.h>
+	<chrono>
+	<thread>
+	<vector>
+	"queue.cpp"
+
+1707936783 source:c:\users\abdullah\documents\c++\traffic_signals\q2_a .cpp
+	<iostream>
+	<time.h>
+	<chrono>
+	<thread>
+	"queue.cpp"
+
