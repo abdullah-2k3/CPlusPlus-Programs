@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1701098390 source:c:\users\abdullah\semester 3\data structures\a-4\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"list.h"
+
+1701265522 c:\users\abdullah\semester 3\data structures\a-4\list.h
+	<iostream>
+
+1701972656 source:c:\users\abdullah\semester 3\data structures\a-4\22l7478.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"list.h"
+
