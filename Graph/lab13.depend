@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1702113431 source:c:\users\abdullah\semester 3\data structures\lab13\main.cpp
+	<iostream>
+	<queue>
+
+1704385022 source:c:\users\abdullah\semester 3\data structures\lab13\lab13.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stack>
+	<queue>
+	<list>
+	<vector>
+
